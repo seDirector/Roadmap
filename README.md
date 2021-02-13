@@ -22,7 +22,5 @@
 - REST API
 
 ### Possible Features
-- Server templates, launch any Steam game
-- Web console
-- Bulk Changes
+- Server templates, manage any Steam game server
 - Discord bot support (control server from Discord)
